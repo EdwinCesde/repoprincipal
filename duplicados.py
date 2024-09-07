@@ -3,7 +3,6 @@ lista = lista.split(",")
 
 i = 0
 while i < len(lista):
-    #print(lista[i]) 
     lista_numeros = set(lista) 
     i += 1  
 
