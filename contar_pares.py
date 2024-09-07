@@ -6,7 +6,7 @@ cantidad = int(input("¿Cuántos números quieres ingresar?: "))
 # Usar un bucle para obtener los números
 for i in range(cantidad):
     numero = float(input("Ingrese un número: "))
-    mi_lista.append(numero)  # Agregar el número a la lista
+    mi_lista.append(numero) 
 
 # Mostrar la lista de números ingresados
 print("Lista de números ingresados:", mi_lista)
